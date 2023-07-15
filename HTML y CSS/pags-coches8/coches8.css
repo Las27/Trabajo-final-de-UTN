@@ -81,6 +81,17 @@ header {
     width: 50%;
 }
 
+td, th {
+    border: 1px solid #ccc;
+    padding: 8px;
+
+    border-radius: 5px;
+}
+
+.result {
+    background-color: #dddddd
+}
+
 /* Parte de Brayan footer*/
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap%27');
